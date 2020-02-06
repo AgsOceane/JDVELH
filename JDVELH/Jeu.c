@@ -38,7 +38,8 @@ int main ()
 	break;
 
 
-}	  
+}	 
+/* déplacement tableau avec boucle pour pouvoir naviguer entre les destinations+ conditions si joueur assez d'argent faire déplacement sinon si joueur pas assez ne peux pas bouger*/ 
 }	
 
 }
